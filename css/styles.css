@@ -46,6 +46,14 @@ address {
 .list {
   list-style: none;
 }
+.filter {
+  list-style: none;
+}
+.filter-button:hover,
+.filter-button:focus {
+  background-color: var(--accent-color);
+  color: var(--white-text-color);
+}
 .current {
   color: var(--accent-color);
 }
