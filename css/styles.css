@@ -77,7 +77,7 @@ button {
 .logo-studio {
   color: var(--white-text-color);
 }
-.hero {
+.hero-section {
   background-color: var(--dark-bgc);
 }
 .hero-title {
@@ -134,4 +134,10 @@ button {
   line-height: 2;
   letter-spacing: 0.06em;
   color: var(--black-text-color);
+} 
+.map{
+  color: var(--white-text-color);
+}
+.filter-name{
+  color: var(--main-text-color);
 }
